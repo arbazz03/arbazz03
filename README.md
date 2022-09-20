@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arbazz03
 - 👀 I’m interested in software technologies ,gui 
-- 🌱 I’m currently learning mastersin computer appliation
+- 🌱 I’m currently learning masters in computer appliation
 - 💞️ I’m looking to collaborate on real life projects
 - 📫 How to reach me email me
 
